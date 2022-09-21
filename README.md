@@ -1,5 +1,7 @@
 # Trilha HTML -
 
+https://bruiinsilva.github.io/Trilha-Html2/
+
 ## HTML I - Conceitos Básicos
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
